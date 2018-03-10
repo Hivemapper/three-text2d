@@ -24,7 +24,7 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@types/three": "^0.83.3",
+    "@types/three": "^0.89.12",
     "three": "*",
     "three-orbit-controls": "^72.0.0",
     "ts-loader": "^2.0.0",
